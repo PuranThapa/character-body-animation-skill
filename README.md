@@ -2,7 +2,11 @@
 
 Makes Claude animate code-drawn characters (canvas, SVG, WebGL) like cartoon characters instead of robots: bending elbows, connected shoulders, natural walk cycles, sitting and gestures.
 
-![Before vs after](demo-before-vs-after.mp4)
+## Before vs after
+
+<video src="https://github.com/PuranThapa/character-body-animation-skill/raw/main/demo-before-vs-after.mp4" controls muted width="100%"></video>
+
+[Watch the before vs after demo](demo-before-vs-after.mp4)
 
 ## Install
 
