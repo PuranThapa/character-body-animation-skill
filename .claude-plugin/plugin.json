@@ -1,1 +1,8 @@
-{"name": "character-body-animation-skill", "description": "Skill for animating human and humanoid characters in code with natural joints, walks, sitting, gestures and body language.", "version": "0.1.0"}
+{
+  "name": "character-body-animation",
+  "version": "1.0.0",
+  "description": "Natural joints, walks, sitting, gestures and body language for code-animated characters (canvas, SVG, WebGL) without a robotic look.",
+  "author": { "name": "Puran Thapa" },
+  "license": "MIT",
+  "keywords": ["animation", "canvas", "svg", "character", "walk-cycle"]
+}
