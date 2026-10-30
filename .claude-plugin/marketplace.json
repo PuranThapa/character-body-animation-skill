@@ -1,0 +1,11 @@
+{
+  "name": "character-body-animation",
+  "owner": { "name": "Puran Thapa" },
+  "plugins": [
+    {
+      "name": "character-body-animation",
+      "source": "./",
+      "description": "Natural joints, walks and body language for code-animated characters."
+    }
+  ]
+}
